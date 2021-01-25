@@ -14,4 +14,5 @@ For other lexers (assumed it's HTML) it inserts HTML <img> tag:
 It replaces full path of image to short path "fn.png" or "subfolder/fn.png"
 if image file is in editor file's subfolder.
 
-Author: Alexey T.
+Author: Alexey Torgashin (CudaText)
+License: MIT
